@@ -443,6 +443,8 @@ url("img/Arrows_crop.webp") 2x);
 }
 .link-style{
 	font-family:"OlympicSans-Bold";
+	line-height:5pt;
+	font-size:18pt;
 }
 .img-teachi-style{
 	width:384px;
@@ -477,7 +479,7 @@ url("img/Arrows_crop.webp") 2x);
 	width:66.76%;
 }
 .navbar-brand img{
-	width:44px;
+	width:55px;
 }
 .img-pdlipidruptu-style{
 	width:261px;
