@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>https://mickjt.github.io</loc>
+	<lastmod>2026-11-23</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://mickjt.github.io/about/</loc>
+	<lastmod>2026-11-23</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/buckyTaylor.png</image:loc>
+	<image:title>buckyTaylor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/buckyTaylor.webp</image:loc>
+	<image:title>buckyTaylor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/flyers.jpg</image:loc>
+	<image:title>flyers</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/flyers.webp</image:loc>
+	<image:title>flyers</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://mickjt.github.io/research/</loc>
+	<lastmod>2026-11-23</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/auxeticCovers.png</image:loc>
+	<image:title>auxeticCovers</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/auxeticCovers.webp</image:loc>
+	<image:title>auxeticCovers</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/vprTaylor.png</image:loc>
+	<image:title>vprTaylor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/vprTaylor.webp</image:loc>
+	<image:title>vprTaylor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/jmpsTaylor.jpg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/jmpsTaylor.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/GuptaGozenTaylor_lipidCA.jpeg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/GuptaGozenTaylor_lipidCA.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/pdLipidRupture.png</image:loc>
+	<image:title>pdLipidRupture</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/pdLipidRupture.webp</image:loc>
+	<image:title>pdLipidRupture</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/M%260_Ex9p2_Fast_SethHill_largerDT.png</image:loc>
+	<image:title>M&amp;0_Ex9p2_Fast_SethHill_largerDT</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/M%260_Ex9p2_Fast_SethHill_largerDT.webp</image:loc>
+	<image:title>M&amp;0_Ex9p2_Fast_SethHill_largerDT</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/voachHaynesTaylor.png</image:loc>
+	<image:title>voachHaynesTaylor</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/voachHaynesTaylor.webp</image:loc>
+	<image:title>voachHaynesTaylor</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>https://mickjt.github.io/teaching/</loc>
+	<lastmod>2026-11-23</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/Teaching.JPG</image:loc>
+	<image:title>Teaching.JPG</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>https://mickjt.github.io/img/Teaching.webp</image:loc>
+	<image:title>Teaching.JPG</image:title>
+	</image:image>
+	<video:video>
+	<video:content_loc>https://mickjt.github.io/vid/Soft%20Robot.mp4</video:content_loc>
+	<video:title>Soft Robot</video:title>
+	</video:video>
+	<video:video>
+	<video:content_loc>https://mickjt.github.io/vid/AuxeticStraps_Horiz.mp4</video:content_loc>
+	<video:title>AuxeticStraps_Horiz</video:title>
+	</video:video>
+</url>
+</urlset>
