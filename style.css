@@ -496,12 +496,9 @@ url("img/arrowsWelcome.webp") 2x);background-image: image-set(url("img/arrowsWel
 url("img/arrowsWelcome.png") 2x,url("img/arrowsWelcome.webp") 1x,
 url("img/arrowsWelcome.webp") 2x);
 }
-.p-bloc-4-style{
-	width:23.67%;
-}
 .p-5-style{
 	font-size:16px;
-	width:80.19%;
+	width:100%;
 }
 .img-flye-style{
 	width:29px;
